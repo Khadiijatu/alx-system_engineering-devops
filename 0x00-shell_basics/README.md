@@ -1,4 +1,5 @@
-#!/bin/bash
+Here is what the script (in each of the following files) does.
+
 0-current_working_directory: prints the absolute path name of the current working directory
 1-listit: displays the content list of current directory
 2-bring_me_home: Changes the working directory to the user's home directory
