@@ -1,3 +1,3 @@
 What the script in each file does. \n
-
+\n
 0-hello_world: Prints “Hello, World”, followed by a new line to the standard output \n 1-confused_smiley: Displays a confused smiley \n ...
